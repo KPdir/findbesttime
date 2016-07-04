@@ -1,5 +1,6 @@
 findbesttime - Shiny app
 ------------------------
+Dec 10 2015
 
 Are you going on a trip soon but don't know what is the best time to leave so you can miss the traffic? Don't base your decision on a gut feeling, I have an app for you!
 
