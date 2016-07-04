@@ -1,0 +1,8 @@
+name: findbesttime
+account: kedarpage
+server: shinyapps.io
+bundleId: 328030
+url: https://kedarpage.shinyapps.io/findbesttime
+when: 1449725614.89235
+asMultiple: FALSE
+asStatic: FALSE
