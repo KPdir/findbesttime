@@ -30,4 +30,4 @@ How does it work? Here's how:
 -   I realized that I can build some nice looking apps using JS/HTML/CSS with better functionality (for the future). I would like to make this app look nicer.
 -   I would like to find out more about how to build web-apps that serve millions of users and how to make them computationally efficient and more available/fast.
 -   Hoping for some comments/feedback on both functionality and UI design so I can revise the app.
--   Thanks to Dean Attali for teaching me Shiny, and thanks to all the STAT-545 staff for many things.
+-   Thanks to Dean Attali for teaching me Shiny, and thanks to Jennifer Bryan and all the STAT-545 staff for this wonderful class.
