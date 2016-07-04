@@ -6,10 +6,14 @@ Are you going on a trip soon but don't know what is the best time to leave so yo
 [findbesttime](https://kedarpage.shinyapps.io/findbesttime) tells you how much time you will end up spending in the traffic for different departure times. You'll have to enter the *origin* and *destination* addresses and the date of travel and hit Go! The app will produce a plot of *duration in traffic vs departure times* spanning the whole 24 hours on the selected date in the timezone of the *origin*. Based on the plot, you can pick a *departure time* that saves time and works the best for you.
 
 
-![screenshot](./screenshot.png)
 
 
-###How does it work? Here's how:
+
+
+
+
+
+How does it work? Here's how:
 
 -   It geocodes both origin and destination addresses using google api. This is done by the function [geocode.R](https://github.com/STAT545-UBC/kedar_page/blob/master/Homework_11/geoCode.R).
 -   Then it finds the timezone for the origin address using the geonames api. This is done inside [server.R](https://github.com/STAT545-UBC/kedar_page/blob/master/Homework_11/server.R).
